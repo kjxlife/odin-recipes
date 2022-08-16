@@ -1,1 +1,1 @@
-# file:///home/kjxlife/repos/odin-recipes/index.html
+# odin-recipes
